@@ -1,0 +1,14 @@
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojAssemblyReference.cache
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.BuyMedicine.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.Buys.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.BuysReportView.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.launcher.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.Managing_varieties_species.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.Medicines_View.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.Profile.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.Sales.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.SalesReportView.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.view.Users_View.resources
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.cache
+D:\Applcations\Aplcation C# Asam\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.CoreCompileInputs.cache
